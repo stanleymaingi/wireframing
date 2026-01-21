@@ -65,3 +65,18 @@ There are several tools available that help designers create wireframes efficien
 ### Why Figma is Recommended for Wireframing
 
 Figma is a powerful and flexible wireframing tool because it runs directly in the browser and supports real-time collaboration among team members. It allows designers to quickly create low-fidelity wireframes, refine them into high-fidelity designs, and share them easily with stakeholders. Features like reusable components, auto layout, version history, and commenting make Figma especially useful for iterative design and team-based projects.
+
+## Wireframing Tools
+
+There are several tools available that help designers create wireframes efficiently, each offering different features depending on the stage of the design process.
+
+### Popular Wireframing Tools
+- **Figma:** A cloud-based design tool that allows real-time collaboration. It is widely used for wireframing, UI design, and prototyping.
+- **Balsamiq:** Known for its low-fidelity, sketch-style wireframes that are useful during early ideation.
+- **Sketch:** A vector-based design tool commonly used for creating high-fidelity wireframes and UI designs.
+- **Adobe XD:** Provides tools for wireframing, prototyping, and sharing designs for feedback.
+
+### Why Figma is Recommended for Wireframing
+
+Figma is a powerful and flexible wireframing tool because it runs directly in the browser and supports real-time collaboration among team members. It allows designers to quickly create low-fidelity wireframes, refine them into high-fidelity designs, and share them easily with stakeholders. Features like reusable components, auto layout, version history, and commenting make Figma especially useful for iterative design and team-based projects.
+
