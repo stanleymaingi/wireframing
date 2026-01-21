@@ -22,3 +22,33 @@ Content placement determines where text, images, videos, and other content appea
 ### Functionality
 Functionality represents interactive elements such as buttons, forms, search fields, and sliders. Including functionality in wireframes helps demonstrate how users will interact with the system and clarifies user actions before development begins.
 
+## Types of Wireframes
+
+Wireframes can be categorized into low-fidelity and high-fidelity wireframes. Each type serves a specific purpose at different stages of the design process.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches that focus on layout, structure, and basic functionality rather than visual design. They often use grayscale colors, placeholders, and basic shapes.
+
+**When they are used:**
+- Early stages of the design process
+- Brainstorming and idea validation
+- Quick feedback from stakeholders
+- Defining layout and user flow
+
+Low-fidelity wireframes help teams focus on functionality and usability without being distracted by visual details.
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are detailed and closely resemble the final product. They include accurate spacing, typography, colors, images, and sometimes interactive elements.
+
+**When they are used:**
+- Later stages of the design process
+- Before development begins
+- For usability testing
+- To hand off designs to developers
+
+High-fidelity wireframes provide a clear visual representation of the final user interface and reduce ambiguity during implementation.
+
+## Wireframe Type Used in This Project
+
+The wireframes used in this project are **low-fidelity wireframes**. They focus on defining the layout structure, navigation flow, content placement, and basic functionality without detailed visual styling. This approach allows for quick iteration and easy feedback during the early design phase.
+
